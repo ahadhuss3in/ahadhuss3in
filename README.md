@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahadhuss3in
 - 👀 I’m interested in python nd html
-- 🌱 I’m currently learning python , java script,html
+- 🌱 I’m currently learning python , java script, java
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ig: ahaddss.__
 
