@@ -22,6 +22,7 @@
 ### ⚡ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Spring Boot]\(https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat\&logo=springboot\&logoColor=white)
 
 ### ☁️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -31,6 +32,3 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-### 📜 Certifications
-![ISC2 CC](https://img.shields.io/badge/ISC2_CC-1E4D78?style=flat&logo=isc2&logoColor=white)
-![Security+](https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=flat&logo=comptia&logoColor=white)
