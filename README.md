@@ -22,7 +22,7 @@
 ### ⚡ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Spring Boot]\(https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat\&logo=springboot\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat\&logo=springboot\&logoColor=white)
 
 ### ☁️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
