@@ -14,8 +14,6 @@
 ### 🔐 Security
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![YARA](https://img.shields.io/badge/YARA-E95420?style=flat&logo=linux&logoColor=white)
-![Sigma](https://img.shields.io/badge/Sigma_Rules-FF4B4B?style=flat&logo=shield&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
 ![Gitleaks](https://img.shields.io/badge/Gitleaks-1A1A2E?style=flat&logo=git&logoColor=white)
 
